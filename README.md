@@ -23,6 +23,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 |---|---|---|
 | Implement Dot Product | Implement the dot product of equal-length numeric vectors by summing element-wise products without library shortcuts. | https://www.tensortonic.com/problems/dot-product |
 | Remove Stopwords | Remove tokens found in a supplied stopword collection while preserving the order of remaining words. | https://www.tensortonic.com/problems/remove-stopwords |
+| Text Chunking | Split text into ordered chunks under the requested size and overlap rules without dropping content. | https://www.tensortonic.com/problems/text-chunking |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/shreya_mandavilli)
 <!-- tensortonic:end -->
